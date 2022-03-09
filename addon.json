@@ -1,0 +1,27 @@
+{
+	"legacy_addon_id": "",
+	"title": "[Inforge] Hide Nulumia GA-Lite",
+	"description": "Move the js/nulumia folder to another location to hide from adblockers.",
+	"version_id": 1000070,
+	"version_string": "1.0.0",
+	"dev": "Inforge",
+	"dev_url": "https:/www.inforge.net",
+	"faq_url": "https://github.com/InforgeNet/HideGALite/issues",
+	"support_url": "mailto:speedjack95@gmail.com",
+	"extra_urls": {
+		"Forum": "https://www.inforge.net/forum",
+		"GitHub": "https://github.com/InforgeNet/HideGALite",
+		"Maintainer (Niccolò Scatena)": "mailto:speedjack95@gmail.com"
+	},
+	"require": {
+		"XF": [
+			2020010,
+			"XenForo 2.2.0+"
+		],
+		"Nulumia/GALite": [
+			1000072,
+			"[Nulumia] GA-Lite for Xenforo 1.0.0.2+"
+		]
+	},
+	"icon": "fas fa-eye-slash"
+}

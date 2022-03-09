@@ -1,0 +1,14 @@
+{
+    "option.ifHgalGALiteSource.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "e0f7106f360e38e90673c7fd0b0bd58c"
+    },
+    "option_explain.ifHgalGALiteSource.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "422ca60f0d9db099aca58aee86983477"
+    }
+}

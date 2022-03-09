@@ -1,0 +1,1 @@
+Set the script location for GA-Lite. Applied only if 'Locally hosted' is selected above.

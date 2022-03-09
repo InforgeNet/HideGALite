@@ -1,0 +1,6 @@
+{
+	"exec": [
+		"mv _build/upload/src/addons/Inforge/HideGALite/README.md _build/",
+		"mv _build/upload/src/addons/Inforge/HideGALite/LICENSE _build/"
+	]
+}

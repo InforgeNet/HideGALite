@@ -1,0 +1,9 @@
+{
+    "template": "nulumia_galite_google_analytics",
+    "description": "Change the GA-Lite script URL.",
+    "execution_order": 500,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:set var=\"$galiteSource\" value=\"{{ base_url('js/nulumia/ga-lite/vendor/ga-lite/src/ga-lite.min.js') }}\" />",
+    "replace": "<xf:set var=\"$galiteSource\" value=\"{{ base_url($xf.options.ifHgalGALiteSource) }}\" />"
+}

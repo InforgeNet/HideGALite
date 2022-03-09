@@ -1,0 +1,13 @@
+{
+    "edit_format": "textbox",
+    "edit_format_params": "",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "Inforge\\HideGALite\\Option\\GALiteSource",
+    "validation_method": "verifyOption",
+    "advanced": true,
+    "default_value": "js/nulumia/ga-lite/vendor/ga-lite/src/ga-lite.min.js",
+    "relations": {
+        "stats": 215
+    }
+}
